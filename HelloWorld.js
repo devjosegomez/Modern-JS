@@ -9,3 +9,9 @@ let city = "Guadalajara"
 let country = "Mexico"
 let location = city + ", " + country
 console.log ( location )
+
+// "Challenge" avg
+let studentScore = 15
+let maxScore = 20
+let finalGrade = ( studentScore / maxScore ) * 100
+console.log ( finalGrade )
