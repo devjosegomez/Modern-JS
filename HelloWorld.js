@@ -10,7 +10,7 @@ let country = "Mexico"
 let location = city + ", " + country
 console.log ( location )
 
-// "Challenge" avg
+// "Challenge" Student Score
 let studentScore = 15
 let maxScore = 20
 let finalGrade = ( studentScore / maxScore ) * 100
