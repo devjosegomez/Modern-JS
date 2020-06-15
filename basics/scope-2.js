@@ -12,6 +12,7 @@ if ( true )
     
     if ( true )
     {
+        name = 'María'
         console.log ( name )
     }
 }
