@@ -20,4 +20,4 @@ let greeting = ( language = 'EN', user = 'Anonymous' ) =>
 
 console.log ( greeting ( undefined, 'Mark' ) )
 console.log ( greeting ( 'ES', 'José' ) )
-console.log ( greeting ( 'ES') )
+console.log ( greeting ( 'ES' ) )
