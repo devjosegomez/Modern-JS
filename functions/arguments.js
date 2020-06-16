@@ -8,7 +8,8 @@ console.log ( result )
 let greeting = ( language = 'EN', user = 'Anonymous' ) => 
 {   
     let message = 'Welcome!'
-    if ( language == 'ES' ) {
+    if ( language == 'ES' ) 
+    {
         if ( user === undefined )
         {
             user = 'Anonimo'
